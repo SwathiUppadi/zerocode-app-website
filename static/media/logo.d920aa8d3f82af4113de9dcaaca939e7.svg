@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#5f9efa" />
+  
+  <!-- Zero (outer circle) -->
+  <circle cx="100" cy="100" r="70" fill="none" stroke="#ffffff" stroke-width="10" />
+  
+  <!-- Code Symbol (curly braces) -->
+  <path d="M70,60 C60,75 60,90 70,110 C55,110 45,100 45,85 C45,70 55,60 70,60 Z" fill="#ffffff" />
+  <path d="M130,60 C140,75 140,90 130,110 C145,110 155,100 155,85 C155,70 145,60 130,60 Z" fill="#ffffff" />
+  
+  <!-- Center Element -->
+  <rect x="85" y="80" width="30" height="8" fill="#ffffff" rx="4" />
+  <rect x="85" y="96" width="30" height="8" fill="#ffffff" rx="4" />
+  <rect x="85" y="112" width="30" height="8" fill="#ffffff" rx="4" />
+</svg>

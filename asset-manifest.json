@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zerocode-app/static/css/main.03a22c33.css",
+    "main.js": "/zerocode-app/static/js/main.06b2b755.js",
+    "static/js/453.190cc32d.chunk.js": "/zerocode-app/static/js/453.190cc32d.chunk.js",
+    "static/media/logo.svg": "/zerocode-app/static/media/logo.d920aa8d3f82af4113de9dcaaca939e7.svg",
+    "index.html": "/zerocode-app/index.html",
+    "main.03a22c33.css.map": "/zerocode-app/static/css/main.03a22c33.css.map",
+    "main.06b2b755.js.map": "/zerocode-app/static/js/main.06b2b755.js.map",
+    "453.190cc32d.chunk.js.map": "/zerocode-app/static/js/453.190cc32d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03a22c33.css",
+    "static/js/main.06b2b755.js"
+  ]
+}
