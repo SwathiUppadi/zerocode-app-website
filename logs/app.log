@@ -1,0 +1,26 @@
+
+> zerocode-app@0.1.0 start
+> react-scripts start
+
+(node:32931) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:32931) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view zerocode-app in the browser.
+
+  Local:            http://localhost:3000/zerocode-app
+  On Your Network:  http://10.176.22.41:3000/zerocode-app
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+00 with PID 32917
+[2025-04-23 12:04:11] Verified: Port 3000 is active
+[2025-04-23 12:04:11] Script completed successfully
